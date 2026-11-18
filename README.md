@@ -4,7 +4,11 @@ Hey everyone, I'm Emir YILDIRIM, a 13 year old programmer in Türkiye and people
 
 I've created this github account to upload non-ENux related code, absurd stuff, some experiments, test a new ENux feature and more.
 
+Also I do a lot of vibe coded experiments here. Btw just as a disclaimer, I vibe code web apps, not kernels :D
+
 Main account: [@ENux-Distro](https://github.com/ENux-Distro)
+
+
 
 <!--
 **emir-yildirim/emir-yildirim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
